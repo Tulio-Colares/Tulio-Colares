@@ -1,7 +1,7 @@
 # Hi there!  👋
-## My name is Túlio Colares. I'm a web developer
+## My name is Túlio Colares. I'm a web developer.
 
-<!--
+
 **Tulio-Colares/Tulio-Colares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Through my email, tuliocsaraiva@gmail.com
 - 😄 Pronouns: he-him
 - ⚡ Fun fact: I can move one eye independently from the other
--->
+
