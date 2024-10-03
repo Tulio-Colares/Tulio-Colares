@@ -10,6 +10,6 @@
 
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: Through my email, tuliocsaraiva@gmail.com
-- 😄 Pronouns: he-him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I can move one eye independently from the other
 
