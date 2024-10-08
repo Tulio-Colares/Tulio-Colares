@@ -8,7 +8,7 @@
   admin functionalties and connection to the Paypal api for payment.
   ![Home](https://github.com/user-attachments/assets/123ab4f9-1cfe-41bf-8ca0-f1590bdeaa58)
   <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  Project under construction   :construction:
   </h4>
     
 - PucImoveis: https://github.com/Tulio-Colares/PUC-IMOBILIARIA  
@@ -16,7 +16,7 @@
   buyers and renters, with searching functionality and different filters.
   ![Home - Copia](https://github.com/user-attachments/assets/4d6d3100-3039-4adf-863c-8cb3b7d283db)
   <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  Project under construction  :construction:
   </h4>
     
 - Ebook web site: https://github.com/Tulio-Colares/E-book  
