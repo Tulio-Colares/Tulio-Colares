@@ -4,8 +4,9 @@
 - 🔭 Atualmente estou trabalhando em dois projetos diferentes. Um E-commerce chamado TulioShop e uma plataforma Imobiliária.  
   I'm currently working on two different projects. An E-commerce called TulioShop and a Real Estate platform.
   
-- Alguns dos meus trabalhos anteriores e atuais:
+- Alguns dos meus trabalhos anteriores e atuais:  
   Some of my previous and current works:
+  
 - TulioShop: https://github.com/Tulio-Colares/TulioShop  
   Projeto full stack onde criei um site de comércio eletrônico, completo com página de detalhes,
   funcionalidades de administração e conexão com a API do Paypal para pagamento.  
