@@ -1,11 +1,11 @@
-# Hi there!  👋
-## My name is Túlio Colares. I'm a web developer.
+  # Olá!  👋
+  ## Meu nome é Túlio Colares. Sou um desenvolvedor web.
 
-- 🔭 I’m currently working on two different projects. An E-commerce called TulioShop and a Real Estate platform.
-- Some of my previous and current work:
+- 🔭 Atualmente estou trabalhando em dois projetos diferentes. Um E-commerce chamado TulioShop e uma plataforma Imobiliária.
+- Alguns dos meus trabalhos anteriores e atuais:
 - TulioShop: https://github.com/Tulio-Colares/TulioShop  
-  Full stack project where I created an Ecommerce website, complete with details page,
-  admin functionalties and connection to the Paypal api for payment.
+  Projeto full stack onde criei um site de comércio eletrônico, completo com página de detalhes,
+  funcionalidades de administração e conexão com a API do Paypal para pagamento.
   ![Home](https://github.com/user-attachments/assets/123ab4f9-1cfe-41bf-8ca0-f1590bdeaa58)
   <h4 align="center"> 
     :construction:  Project under construction   :construction:
@@ -14,6 +14,9 @@
 - PucImoveis: https://github.com/Tulio-Colares/PUC-IMOBILIARIA  
   My first fullstack project. A website for contacting real estate sellers,
   buyers and renters, with searching functionality and different filters.
+
+  Meu primeiro projeto fullstack. Um site para entrar em contato com vendedores de imóveis,
+  compradores e locatários, com funcionalidade de pesquisa e diversos filtros.
   ![Home - Copia](https://github.com/user-attachments/assets/4d6d3100-3039-4adf-863c-8cb3b7d283db)
   <h4 align="center"> 
     :construction:  Project under construction  :construction:
@@ -41,7 +44,7 @@
   </h4>  
 
 
-- 🌱 I’m currently learning more about backend development with express, although I have already done some cool things. The technologies that I'm using:
+- 🌱 I’m currently learning more about backend development with express, although I have already done some cool things.  
 
 ## The technologies I am currently working with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="60" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" width="60" height="60" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="60" height="60" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" height="60" />  
