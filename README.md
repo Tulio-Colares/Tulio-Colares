@@ -4,10 +4,21 @@
 - 🔭 I’m currently working on two different projects. An E-commerce called TulioShop and a Real Estate platform.
 - Some of my previous and current work:
 - TulioShop: https://github.com/Tulio-Colares/TulioShop
+  Full stack project where I created an Ecommerce website, complete with details page,
+  admin functionalties and connection to the Paypal api for payment.
+  
 - PucImoveis: https://github.com/Tulio-Colares/PUC-IMOBILIARIA
+  My first fullstack project. A website for contacting real estate sellers,
+  buyers and renters, with searching functionality and different filters.
+  
 - Ebook web site: https://github.com/Tulio-Colares/E-book
+  An Ebook website where I practiced my skills with bootstrap.
+  
 - Barber Shop: https://github.com/Tulio-Colares/barbershop
+  A project for practicing further my html and CSS skills.
+  
 - Coffee Shop: https://github.com/Tulio-Colares/Coffee
+  A project for practicing my html and CSS skills.
 
 
 - 🌱 I’m currently learning more about backend development with express, although I have already done some cool things. The technologies that I'm using:
