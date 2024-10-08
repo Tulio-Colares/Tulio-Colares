@@ -2,7 +2,7 @@
   ## Meu nome é Túlio Colares. Sou um desenvolvedor web.
 
 - 🔭 Atualmente estou trabalhando em dois projetos diferentes. Um E-commerce chamado TulioShop e uma plataforma Imobiliária.
-- Alguns dos meus trabalhos anteriores e atuais:
+- Alguns dos meus trabalhos anteriores e atuais:  
 - TulioShop: https://github.com/Tulio-Colares/TulioShop  
   Projeto full stack onde criei um site de comércio eletrônico, completo com página de detalhes,
   funcionalidades de administração e conexão com a API do Paypal para pagamento.  
@@ -14,7 +14,7 @@
     :construction:  Project under construction   :construction:
   </h4>  
     
-- PucImoveis: https://github.com/Tulio-Colares/PUC-IMOBILIARIA
+- PucImoveis: https://github.com/Tulio-Colares/PUC-IMOBILIARIA  
   Meu primeiro projeto fullstack. Um site para entrar em contato com vendedores de imóveis,
   compradores e locatários, com funcionalidade de pesquisa e diversos filtros.
   
@@ -28,13 +28,13 @@
 - Ebook web site: https://github.com/Tulio-Colares/E-book  
   Um site de e-book onde pratiquei minhas habilidades com bootstrap.
   
-  An Ebook website where I practiced my skills with bootstrap.
+  An Ebook website where I practiced my skills with bootstrap.  
   ![Ebook](https://github.com/user-attachments/assets/9abe3f7d-0ee6-4b5c-825d-e1b1845e1429)
   <h4 align="center"> 
     This project is concluded  :+1:
   </h4>  
     
-- Barber Shop: https://github.com/Tulio-Colares/barbershop
+- Barber Shop: https://github.com/Tulio-Colares/barbershop  
   Um projeto para praticar ainda mais minhas habilidades em HTML e CSS.
   
   A project for practicing further my html and CSS skills.  
@@ -43,7 +43,7 @@
     This project is concluded  :+1:
   </h4>  
   
-- Coffee Shop: https://github.com/Tulio-Colares/Coffee
+- Coffee Shop: https://github.com/Tulio-Colares/Coffee  
   Um projeto para praticar minhas habilidades em HTML e CSS.
   
   A project for practicing my html and CSS skills.  
