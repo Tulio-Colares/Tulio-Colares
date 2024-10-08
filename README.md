@@ -12,19 +12,24 @@
   My first fullstack project. A website for contacting real estate sellers,
   buyers and renters, with searching functionality and different filters.
   ![Home - Copia](https://github.com/user-attachments/assets/4d6d3100-3039-4adf-863c-8cb3b7d283db)
+  <h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+  </h4>
     
 - Ebook web site: https://github.com/Tulio-Colares/E-book  
   An Ebook website where I practiced my skills with bootstrap.
   ![Ebook](https://github.com/user-attachments/assets/9abe3f7d-0ee6-4b5c-825d-e1b1845e1429)
+  This project is concluded :+1:  
     
 - Barber Shop: https://github.com/Tulio-Colares/barbershop  
   A project for practicing further my html and CSS skills.  
-  ![Barbearia](https://github.com/user-attachments/assets/a0f79d91-7f40-487d-a352-5cbe2a0f1a0a)
-  
+  ![Barbearia](https://github.com/user-attachments/assets/a0f79d91-7f40-487d-a352-5cbe2a0f1a0a)  
+  This project is concluded :+1:  
   
 - Coffee Shop: https://github.com/Tulio-Colares/Coffee  
   A project for practicing my html and CSS skills.  
   ![Home](https://github.com/user-attachments/assets/111dd005-b20c-42e4-820d-ada4c656a22e)
+  This project is concluded :+1:
 
 
 - 🌱 I’m currently learning more about backend development with express, although I have already done some cool things. The technologies that I'm using:
