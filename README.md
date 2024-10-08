@@ -18,6 +18,7 @@
     :construction:  Project under construction   :construction:
   </h4>  
     
+    
 - PucImoveis: https://github.com/Tulio-Colares/PUC-IMOBILIARIA  
   Meu primeiro projeto fullstack. Um site para entrar em contato com vendedores de imóveis,
   compradores e locatários, com funcionalidade de pesquisa e diversos filtros.
@@ -29,6 +30,7 @@
     :construction:  Project under construction  :construction:
   </h4>  
     
+    
 - Ebook web site: https://github.com/Tulio-Colares/E-book  
   Um site de e-book onde pratiquei minhas habilidades com bootstrap.
   
@@ -37,6 +39,7 @@
   <h4 align="center"> 
     This project is concluded  :+1:
   </h4>  
+
     
 - Barber Shop: https://github.com/Tulio-Colares/barbershop  
   Um projeto para praticar ainda mais minhas habilidades em HTML e CSS.
@@ -46,7 +49,8 @@
   <h4 align="center"> 
     This project is concluded  :+1:
   </h4>  
-  
+    
+    
 - Coffee Shop: https://github.com/Tulio-Colares/Coffee  
   Um projeto para praticar minhas habilidades em HTML e CSS.
   
@@ -55,8 +59,8 @@
   <h4 align="center"> 
     This project is concluded  :+1:
   </h4>  
-
-
+    
+    
 - 🌱 I’m currently learning more about backend development with express, although I have already done some cool things.  
 
 ## The technologies I am currently working with:
